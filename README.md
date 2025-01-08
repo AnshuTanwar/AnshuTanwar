@@ -60,9 +60,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AnshuTanwar/AnshuTanwar/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{AnshuTanwaar}}/{{AnshuTanwar}}/blob/output/github-contribution-grid-snake.svg) https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme
 
 ###
 
