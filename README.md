@@ -60,16 +60,8 @@
 </div>
 
 ### 🔝 Top Contributed Repo
-<table>
-  <tr>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=AnshuTanwar&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-    </td>
-    <td>
-      <img src="https://media.tenor.com/nX9u0uRUi7UAAAAC/dance-emoji.gif" width="200" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-contributor-stats.vercel.app/api?username=AnshuTanwar&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+
 
 ###
 
