@@ -14,6 +14,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshuTanwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+### 
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AnshuTanwar?ext=activity&border=0&radius=20" alt="LeetCode Stats">
+</p>
+
 ###
 
 <div align="left">
