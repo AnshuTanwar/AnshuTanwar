@@ -12,7 +12,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnshuTanwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshuTanwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://media.giphy.com/media/KGd6ns7MR1gPCRT52z/giphy.gif?cid=790b7611hk75g8cejs2oy70toup3ogmsx2ims1lyoey7ixlx&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="150" alt="GIF" />
 </div>
 
 ### 
